@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KARIM LAAFIF</h1>
 <h3 align="center">A IT specialist | Data Science | ML | Devops | Data Analyses | Hardware fixing and upgrading</h3>
-<iframe src="https://giphy.com/embed/KDyxouSEfhOs9i4oru" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/programming-computer-science-unix-KDyxouSEfhOs9i4oru">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l-karim&label=Profile%20views&color=0e75b6&style=flat" alt="l-karim" /> </p>
 
