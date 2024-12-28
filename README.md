@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/karim-laafif-8869352aa" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg]" alt="www.linkedin.com/in/karim-laafif-8869352aa" height="80" width="80" /></a>
+<a href="https://linkedin.com/in/karim-laafif-8869352aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/karim-laafif-8869352aa" height="80" width="80" /></a>
 <a href="https://stackoverflow.com/users/22958018/karim-laafif?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="karim laafif" height="80" width="80" /></a>
 <a href="https://discord.gg/mW6cyavr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="karim laafif" height="80" width="80" /></a>
 </p>
