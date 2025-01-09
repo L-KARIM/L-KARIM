@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KARIM LAAFIF</h1>
 <h3 align="center">A IT specialist | Data Science | ML | Devops | Data Analyses | Hardware fixing and upgrading</h3>
 
-<img align="right" alt="Coding" height ="300" width="1000" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
+<img align="right" alt="Coding" height ="700" width="1000" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l-karim&label=Profile%20views&color=0e75b6&style=flat" alt="l-karim" /> </p>
 
